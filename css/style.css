@@ -1,0 +1,20 @@
+body{
+	background: url('img/ufo-wallpaper-2000x1333.jpg');
+}
+.profile{
+	height:100px;
+	width:100px;
+}
+.title{
+
+}
+#yolo{
+	float: left;
+} 
+#right{
+	float: right;
+	width: 500px;
+}
+.bugeton{
+	float: center;
+}
